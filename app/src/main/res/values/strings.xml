@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ScanMaster</string>
+    <string name="app_name_pro">ScanMasterPro</string>
+
+    <!-- Login Screen -->
+    <string name="welcome_to_scanmaster">Welcome to ScanMaster</string>
+    <string name="welcome_description">Scan, save and share your professional documents with ease. Start your journey today.</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="continue_with_email">Continue with Email</string>
+    <string name="terms_and_privacy">By signing in, you agree to our Terms of Service and Privacy Policy</string>
+
+    <!-- Home Screen -->
+    <string name="search_placeholder">Search for documents...</string>
+    <string name="total_scans">Total Scans</string>
+    <string name="home">Home</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="recent_scans">Recent Scans</string>
+    <string name="view_all">View All</string>
+    <string name="active">Active</string>
+
+    <!-- Files Screen -->
+    <string name="my_scans">My Scans</string>
+    <string name="search_files_placeholder">Search your documents...</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="size">Size</string>
+    <string name="type">Type</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="subscription">Subscription</string>
+    <string name="pro_plan">Pro Plan</string>
+    <string name="logout">Logout</string>
+    <string name="cloud_sync">Cloud Sync</string>
+    <string name="auto_cloud_sync">Auto Cloud Sync</string>
+    <string name="cloud_provider">Cloud Provider</string>
+    <string name="google_drive_provider">Google Drive</string>
+    <string name="sync_over_wifi">Sync over Wi-Fi only</string>
+    <string name="sync_wifi_description">Saves mobile data by only uploading when connected to a Wi-Fi network.</string>
+    <string name="general">General</string>
+    <string name="scan_quality">Scan Quality</string>
+    <string name="high">High</string>
+    <string name="notifications">Notifications</string>
+    <string name="version_info">ScanMaster Version 2.4.0 (Build 482)</string>
+
+    <!-- Scanner Screen -->
+    <string name="scan">Scan</string>
+    <string name="auto">AUTO</string>
+    <string name="manual">MANUAL</string>
+</resources>
